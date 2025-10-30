@@ -80,3 +80,5 @@ print(intro)
 # You can also use f-strings (Python 3.6+)
 intro_fstring = f"My name is {name} and I am {age} years old."
 print(intro_fstring)
+
+declaration_of_independance = "The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
