@@ -20,11 +20,15 @@ print(len(first_name))
 
 # 3. Combine your name and favorite color into one message
 print(f"My name is {first_name} and my favorite color is {favorite_color}")
-
+# f"{name}"
 #  Step 3: Math Practice
 # Use arithmetic operators with your favorite number
-
-
+num1 = 3
+num2 = 3
+num3 = int(input("What is your third favorite?"))
+num4 = int(input("What is your fourth favorite?"))
+print(num1 + num2)
+print(num3 + num4)
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
 
