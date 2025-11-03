@@ -1,5 +1,5 @@
 # week 2 Python Challenge
-
+ 
 # The most awaited moment of your first day of study has arrived. You are going to create your first solo program, and you are going to do it applying everything you have learned throughout this day.
 
 # Imagine the situation: Your best friend has started a brewery and has everything ready. His product is fantastic. It has body, good flavor, good color, and just the right level of foam. But it lacks an identity. He can’t think of a name for his beer that would give it a unique and original identity.
@@ -17,3 +17,10 @@
 # Well, try to do it on your own, and if it gets complicated, don’t worry, we will solve it together in the next lecture.
 
 # Cheers and good luck.
+
+question1 = input("adjective: ")
+question2 = input("verb: ")
+
+beer_name = f"{question1} {question2}"
+
+print(f"Your new beer name is \"{beer_name}\"")
